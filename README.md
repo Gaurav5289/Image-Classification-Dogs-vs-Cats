@@ -1,5 +1,8 @@
 # 🐶🐱 DogCat Classifier using CNN 🚀
 This project is a deep learning-based binary image classification system that distinguishes between dogs and cats. It leverages **transfer learning** using a pre-trained **VGG16** model, fine-tuned for this task. The project includes a training notebook and a Streamlit-based web app for live predictions.
+
+## 📦 Dataset
+The dataset used for this project can be found on Kaggle:https://www.kaggle.com/datasets/salader/dogs-vs-cats
 ## 🔍 Overview
 
 - **Model**: VGG16-based CNN with custom classification layers
